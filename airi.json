@@ -94,7 +94,7 @@
             "#242424", "#BEBEBE"
         ],
         "CHANNELS_DEFAULT": [
-            "#fee7f1", "#89769E"
+            "#fbbbd7", "#89769E"
         ],
         "TEXT_DANGER": [
             "#FC0E61", "#FC0E61"
@@ -115,7 +115,7 @@
         "PRIMARY_300": "#B424AB",
         "PRIMARY_360": "#C272F0",
         "PRIMARY_400": "#7114EE",
-	"PRIMARY_460": "#fbbbd7",
+	"PRIMARY_460": "#f3b2ce",
         "PRIMARY_500": "#5F3A70",
         "PRIMARY_600": "#282828",
         "PRIMARY_630": "#2F2F2F",
