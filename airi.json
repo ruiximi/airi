@@ -54,12 +54,10 @@
             "#222222", "#EBEBEB"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "transparent", "#EBEBEB",
-		"alpha": 0.3
+            "transparent", "#EBEBEB"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "transparent", "#EBEBEB",
-		"alpha": 0.2
+            "transparent", "#EBEBEB"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#222222", "#EBEBEB"
