@@ -24,7 +24,7 @@
             "#ee8fb8", "#7D00C0"
         ],
         "INTERACTIVE_NORMAL": [
-            "#c59bad", "#B26EDA"
+            "#ff89bc", "#B26EDA"
         ],
         "INTERACTIVE_HOVER": [
             "#B988BC", "#A988BC"
@@ -35,17 +35,17 @@
         "INTERACTIVE_MUTED": [
             "#5F5160" ,"#8C8099"
         ],
-        "BACKGROUND_PRIMARY": [
-            "transparent", "#E9E9E9"
+         "BACKGROUND_PRIMARY": [
+            "#282828", "#E9E9E9"
         ],
         "BACKGROUND_SECONDARY": [
-            "transparent", "#EBEBEB"
+            "#222222", "#EBEBEB"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "transparent", "#EBEBEB"
+            "#222222", "#EBEBEB"
         ],
         "BACKGROUND_TERTIARY": [
-            "transparent", "#FFFFFF"
+            "#282828", "#FFFFFF"
         ],
         "BACKGROUND_ACCENT": [
             "#704A6E", "#5F4A70"
@@ -135,18 +135,5 @@
         "url": "https://static.miraheze.org/projectsekaiwiki/c/c1/Airi_38_trained_art.png?download",
 	"alpha": 0.3
     },
-    "BG_BACKDROP": {
-	"url": "https://static.miraheze.org/projectsekaiwiki/c/c1/Airi_38_trained_art.png?download",
-	"alpha": 0.3
-    },
-    "BG__BASE_PRIMARY": {
-	"url": "https://static.miraheze.org/projectsekaiwiki/c/c1/Airi_38_trained_art.png?download",
-	"alpha": 0.3
-    },
-    "BG_BASE_SECONDARY": {
-	"url": "https://static.miraheze.org/projectsekaiwiki/c/c1/Airi_38_trained_art.png?download",
-	"alpha": 0.3
-    },
-
     "spec": 2
 }
