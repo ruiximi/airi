@@ -70,10 +70,10 @@
             "#292929", "#ECECEC"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#463745", "#E0C2FF"
+            "#93526e", "#E0C2FF"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#7D427A", "#E0C2FF"
+            "#e072a2", "#E0C2FF"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#484848", "#B0B0B0"
