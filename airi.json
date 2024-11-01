@@ -27,10 +27,10 @@
             "#ff89bc", "#B26EDA"
         ],
         "INTERACTIVE_HOVER": [
-            "#B988BC", "#A988BC"
+            "#f3b2ce", "#A988BC"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FDC5FA", "#A963F6"
+            "#f3b2ce", "#A963F6"
         ],
         "INTERACTIVE_MUTED": [
             "#5F5160" ,"#8C8099"
