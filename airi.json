@@ -135,5 +135,18 @@
         "url": "https://static.miraheze.org/projectsekaiwiki/c/c1/Airi_38_trained_art.png?download",
 	"alpha": 0.3
     },
+    "BG_BACKDROP": {
+	"url": "https://static.miraheze.org/projectsekaiwiki/c/c1/Airi_38_trained_art.png?download",
+	"alpha": 0.3
+    },
+    "BG__BASE_PRIMARY": {
+	"url": "https://static.miraheze.org/projectsekaiwiki/c/c1/Airi_38_trained_art.png?download",
+	"alpha": 0.3
+    },
+    "BG_BASE_SECONDARY": {
+	"url": "https://static.miraheze.org/projectsekaiwiki/c/c1/Airi_38_trained_art.png?download",
+	"alpha": 0.3
+    },
+
     "spec": 2
 }
