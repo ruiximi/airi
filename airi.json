@@ -24,7 +24,7 @@
             "#ee8fb8", "#7D00C0"
         ],
         "INTERACTIVE_NORMAL": [
-            "#C599C3", "#B26EDA"
+            "#c59bad", "#B26EDA"
         ],
         "INTERACTIVE_HOVER": [
             "#B988BC", "#A988BC"
@@ -54,10 +54,12 @@
             "#222222", "#EBEBEB"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#222222", "#EBEBEB"
+            "transparent", "#EBEBEB",
+		"alpha": 0.3
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#222222", "#EBEBEB"
+            "transparent", "#EBEBEB",
+		"alpha": 0.2
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#222222", "#EBEBEB"
