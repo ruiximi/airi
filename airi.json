@@ -3,136 +3,138 @@
     "description": "mikie_04",
     "authors": [
         {
-            "name": "ruiximi",
+            "name": "@mizuki.akiyama.",
             "id": "847990440396718081"
         }
     ],
-  "background": {
+	"background": {
           "url": "https://static.miraheze.org/projectsekaiwiki/c/c1/Airi_38_trained_art.png?download",
 	  "alpha": 0.7
+        }
+    ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#EFDFD7"
+            "#D572D0", "#7D00C0"
         ],
         "HEADER_SECONDARY": [
-            "#EFDFD7"
+            "#D572D0", "#7D00C0"
         ],
         "TEXT_NORMAL": [
-            "#E7D6CE"
+            "#FFE8FE", "#141414"
         ],
         "TEXT_MUTED": [
-            "#A07D6C"
+            "#5C5C5C", "#202020"
+        ],
+        "TEXT_LINK": [
+            "#EE8EE9", "#7D00C0"
         ],
         "INTERACTIVE_NORMAL": [
-            "#EFDFD7"
+            "#C599C3", "#B26EDA"
         ],
         "INTERACTIVE_HOVER": [
-            "#503E38"
+            "#B988BC", "#A988BC"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#EFDFD7"
+            "#FDC5FA", "#A963F6"
         ],
         "INTERACTIVE_MUTED": [
-            "#957261"
+            "#5F5160" ,"#8C8099"
         ],
         "BACKGROUND_PRIMARY": [
-            "#110D0A"
+            "#282828", "#E9E9E9"
         ],
         "BACKGROUND_SECONDARY": [
-            "#15100d"
+            "#222222", "#EBEBEB"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#15100d"
+            "#222222", "#EBEBEB"
         ],
         "BACKGROUND_TERTIARY": [
-            "#110D0A"
+            "#282828", "#FFFFFF"
         ],
         "BACKGROUND_ACCENT": [
-            "#503E38"
+            "#704A6E", "#5F4A70"
         ],
         "BACKGROUND_FLOATING": [
-            "#15100d"
+            "#222222", "#EBEBEB"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#15100d"
+            "#222222", "#EBEBEB"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#15100d"
+            "#222222", "#EBEBEB"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#15100d"
+            "#222222", "#EBEBEB"
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
-            "#322720"
+            "#292929", "#ECECEC"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#322720"
+            "#292929", "#ECECEC"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#3a2c26"
+            "#463745", "#E0C2FF"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#372d2b"
+            "#7D427A", "#E0C2FF"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "503E38"
+            "#484848", "#B0B0B0"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#26273b"
+            "#26273b", "#26273b"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "transparent"
+            "transparent", "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#DAC0B3"
+            "#DAB3D8", "#C4B3DA"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#DAC0B3"
+            "#DAB3D8", "#C4B3DA"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#372E29"
+            "#242424", "#BEBEBE"
         ],
         "CHANNELS_DEFAULT": [
-            "#9E8376"
-        ],
-        "TEXT_LINK": [
-            "#9E8376"
+            "#9E769C", "#89769E"
         ],
         "TEXT_DANGER": [
-            "#503E38"
+            "#FC0E61", "#FC0E61"
         ],
         "KEYBOARD": [
-            "#110D0A"
+            "#282828", "#FFFFFF"
         ],
         "CHANNEL_ICON": [
-            "#EFDFD7"
+            "#C6B3C5", "#31283E"
         ],
         "CHAT_BACKGROUND": [
-            "#110D0A"
+            "#282828", "#FFFFFF"
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#9E8376",
-        "PRIMARY_100": "#EFDFD7",
-        "PRIMARY_200": "#F4EAE5",
-        "PRIMARY_300": "#9E8376",
-        "PRIMARY_360": "#9E8376",
-        "PRIMARY_400": "#9E8376",
-        "PRIMARY_600": "#100D0A",
-        "PRIMARY_630": "#1B1411",
-        "PRIMARY_660": "#1B1411",
-        "PRIMARY_700": "#100D0A",
-        "PRIMARY_800": "#100D0A",
-        "BRAND_260": "#957261",
-        "BRAND_360": "#D0A996",
-        "BRAND_500": "#957261",
-        "BRAND_560": "#D0A996",
-        "YELLOW_300": "#957261",
-        "GREEN_600": "#EFDFD7",
-        "RED_400": "#9E8376",
-        "WHITE_500": "#EFDFD7",
-        "GREEN_360": "#503E38"
+        "PRIMARY_100": "#FDD8FB",
+        "PRIMARY_200": "#947592",
+        "PRIMARY_300": "#B424AB",
+        "PRIMARY_360": "#C272F0",
+        "PRIMARY_400": "#7114EE",
+        "PRIMARY_500": "#5F3A70",
+        "PRIMARY_600": "#282828",
+        "PRIMARY_630": "#2F2F2F",
+        "PRIMARY_660": "#2F2F2F",
+        "PRIMARY_700": "#282828",
+        "PRIMARY_800": "#282828",
+
+        "BRAND_260": "#936195",
+        "BRAND_360": "#D096CF",
+        "BRAND_500": "#936195",
+        "BRAND_560": "#D096CF",
+        "WHITE_500": "#F0C4FF",
+        "YELLOW_300": "#B569E0",
+        "GREEN_360": "#B569E0",
+        "RED_400": "#FC0E61"
     },
     "spec": 2
 }
