@@ -36,7 +36,7 @@
             "#ffcfe4" ,"#8C8099"
         ],
          "BACKGROUND_PRIMARY": [
-            "#f3b2ce", "#E9E9E9"
+            "#282828", "#E9E9E9"
         ],
         "BACKGROUND_SECONDARY": [
             "#222222", "#EBEBEB"
@@ -115,6 +115,7 @@
         "PRIMARY_300": "#B424AB",
         "PRIMARY_360": "#C272F0",
         "PRIMARY_400": "#7114EE",
+	"PRIMARY_460": "#f3b2ce",
         "PRIMARY_500": "#5F3A70",
         "PRIMARY_600": "#282828",
         "PRIMARY_630": "#2F2F2F",
