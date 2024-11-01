@@ -15,13 +15,13 @@
             "#f684b5", "#f684b5"
         ],
         "TEXT_NORMAL": [
-            "#FFE8FE", "#141414"
+            "#fee7f1", "#141414"
         ],
         "TEXT_MUTED": [
             "#5C5C5C", "#202020"
         ],
         "TEXT_LINK": [
-            "#EE8EE9", "#7D00C0"
+            "#ee8fb8", "#7D00C0"
         ],
         "INTERACTIVE_NORMAL": [
             "#C599C3", "#B26EDA"
