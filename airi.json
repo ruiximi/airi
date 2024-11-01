@@ -136,5 +136,9 @@
         "url": "https://static.miraheze.org/projectsekaiwiki/c/c1/Airi_38_trained_art.png?download",
 	"alpha": 0.3
     },
-    "spec": 2
+    "spec": 2,
+    "plus": {
+    "version": 0,
+    "iconpack": "iconsaxbulk"
+    }
 }
