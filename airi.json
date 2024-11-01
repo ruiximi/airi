@@ -48,7 +48,7 @@
             "#282828", "#FFFFFF"
         ],
         "BACKGROUND_ACCENT": [
-            "#704A6E", "#5F4A70"
+            "#f3b2ce", "#5F4A70"
         ],
         "BACKGROUND_FLOATING": [
             "#222222", "#EBEBEB"
@@ -129,7 +129,7 @@
         "WHITE_500": "#F0C4FF",
         "YELLOW_300": "#B569E0",
         "GREEN_360": "#B569E0",
-        "RED_400": "#FC0E61"
+        "RED_400": "#ff89bc"
     },
     "background": {
         "url": "https://static.miraheze.org/projectsekaiwiki/c/c1/Airi_38_trained_art.png?download",
