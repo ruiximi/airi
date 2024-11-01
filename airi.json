@@ -36,16 +36,16 @@
             "#5F5160" ,"#8C8099"
         ],
         "BACKGROUND_PRIMARY": [
-            "#282828", "#E9E9E9"
+            "transparent", "#E9E9E9"
         ],
         "BACKGROUND_SECONDARY": [
-            "#222222", "#EBEBEB"
+            "transparent", "#EBEBEB"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#222222", "#EBEBEB"
+            "transparent", "#EBEBEB"
         ],
         "BACKGROUND_TERTIARY": [
-            "#282828", "#FFFFFF"
+            "transparent", "#FFFFFF"
         ],
         "BACKGROUND_ACCENT": [
             "#704A6E", "#5F4A70"
