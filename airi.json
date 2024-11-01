@@ -7,10 +7,6 @@
             "id": "847990440396718081"
         }
     ],
-	"background": {
-          "url": "https://static.miraheze.org/projectsekaiwiki/c/c1/Airi_38_trained_art.png?download",
-	  "alpha": 0.7
-        }
     "semanticColors": {
         "HEADER_PRIMARY": [
             "#D572D0", "#7D00C0"
